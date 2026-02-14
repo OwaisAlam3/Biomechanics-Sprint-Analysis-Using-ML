@@ -1,0 +1,19 @@
+trunk
+hip
+knee
+ankle
+
+0.05 position taken
+0.05 left leg stride 1: backward while right foot at rest 
+0.07 right leg stride 1: backward while left foot at prev position
+0.2  right left stride 2: sprints forward (go), left foot follows
+
+get 0.12
+set 0.19
+go  0.2
+
+track-400m 
+width: 1.22m
+
+
+

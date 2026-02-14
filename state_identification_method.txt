@@ -1,0 +1,58 @@
+Sprint Start Phases (Sagittal View)
+
+
+GET (timestamp 00:15) (FRAME: 452)
+ 
+Also called “on the blocks” position.
+
+Key posture cues:
+
+Hands on the ground, shoulder width apart, fingers pointing forward
+
+Head slightly down
+
+One knee (usually the rear leg) on the ground, the other leg forward with foot on the block
+
+Hips low, behind the shoulders but above the knee of the rear leg
+
+
+SET (timestamp 00:19)(FRAME: 479)
+
+
+
+Ready position just before the gun.
+
+Key posture cues:
+
+Hands still on the ground
+
+Both knees slightly off the ground, hips raised a bit
+
+Torso slightly forward, preparing to explode forward
+
+Weight shifted forward onto the front leg
+
+
+GO (timestamp 00:19)(FRAME: 495)
+
+
+
+Push-off / start of the sprint.
+
+Key posture cues:
+
+Hands leave the ground
+
+Body rises and leans forward
+
+Legs start driving backward and forward (first stride)
+
+Shoulders and head rise slightly compared to GET/SET
+
+
+
+1st stride: from frame 495 to frame 505
+
+2nd stride: from frame 510 to frame 518
+
+3rd stride: from frame 521 - not included (video ends)

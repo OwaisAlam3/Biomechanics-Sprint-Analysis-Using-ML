@@ -1,0 +1,12 @@
+Frame where ground level will be defined: 27 
+
+GET (FRAME: 452)
+
+SET (FRAME: 479)
+
+GO (FRAME: 495)
+
+
+1st stride: from frame 495 to frame 505
+
+2nd stride: from frame 510 to frame 518
